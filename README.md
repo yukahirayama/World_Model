@@ -24,3 +24,4 @@ Directly run the main.py, then the algrithm will be tested on scenario 'simple_t
 
 + The default setting of Multi-Agent Particle Environment(MPE) is sparse reward, you can change it to dense reward by replacing 'shape=False' to 'shape=True' in file multiagent-particle-envs/multiagent/scenarios/simple_tag.py/.
 # World_Model
+# World_Model
